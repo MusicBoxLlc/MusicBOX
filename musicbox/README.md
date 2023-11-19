@@ -1,6 +1,6 @@
-# Your Music App
+# MusicBOX
 
-Your Music App is a platform that connects music enthusiasts with talented artists for live performances and bookings.
+MusicBox is a platform that connects music enthusiasts with talented artists for live performances and bookings.
 
 ## Features
 
@@ -14,14 +14,14 @@ Your Music App is a platform that connects music enthusiasts with talented artis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-music-app.git
+   git clone https://github.com/Parksterapp/MusicBOX.git
 
 
 
 
 
 
-cd your-music-app
+cd MusicBOX
 
 
 npm install
