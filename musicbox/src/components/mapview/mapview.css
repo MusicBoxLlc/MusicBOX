@@ -1,0 +1,27 @@
+/* MapView container */
+.map-view {
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Title */
+  .map-view h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Loading or error message */
+  .map-view p {
+    color: #ff0000; /* Red color for error message */
+    font-style: italic;
+  }
+  
+  /* Map container */
+  #map-container {
+    height: 400px; /* Set the desired height for the map */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  

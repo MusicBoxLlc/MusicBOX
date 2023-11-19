@@ -1,0 +1,46 @@
+/* Bookings container */
+.bookings-container {
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Title */
+  .bookings-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Sections */
+  .upcoming-bookings,
+  .past-bookings,
+  .payment-history {
+    margin-bottom: 30px;
+  }
+  
+  /* Individual booking item */
+  .booking-item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .booking-item p {
+    margin: 5px 0;
+  }
+  
+  .booking-item button {
+    padding: 8px 15px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .booking-item button:hover {
+    background-color: #2980b9;
+  }
+  

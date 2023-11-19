@@ -1,0 +1,48 @@
+/* Favorites and Recommendations container */
+.favorites-and-recommendations {
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Title */
+  .favorites-and-recommendations h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Error message */
+  .favorites-and-recommendations p {
+    color: #ff0000; /* Red color for error message */
+    font-style: italic;
+  }
+  
+  /* Favorites and Recommendations sections */
+  .favorites,
+  .recommendations {
+    margin-bottom: 30px;
+  }
+  
+  /* Section titles */
+  .favorites h3,
+  .recommendations h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #555;
+  }
+  
+  /* Individual favorite/recommendation item */
+  .favorite-item,
+  .recommendation-item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+  }
+  
+  .favorite-item p,
+  .recommendation-item p {
+    margin: 0;
+  }
+  

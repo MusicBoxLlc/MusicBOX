@@ -1,0 +1,84 @@
+/* Home container */
+.home-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Title */
+  .home-container h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Section headers */
+  .section-header {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #555;
+  }
+  
+  /* Featured artists section */
+  .featured-artists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  /* Single featured artist card */
+  .featured-artist-card {
+    width: 30%;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .featured-artist-card img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  /* Live performances section */
+  .live-performances {
+    margin-top: 30px;
+  }
+  
+  /* Live performance item */
+  .live-performance-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+  }
+  
+  /* Exclusive content section */
+  .exclusive-content {
+    margin-top: 30px;
+  }
+  
+  /* Exclusive content item */
+  .exclusive-content-item {
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #eaeaea;
+    margin-bottom: 20px;
+  }
+  
+  /* Local gigs map section */
+  .local-gigs-map {
+    margin-top: 30px;
+  }
+  
+  /* Map container */
+  .map-container {
+    height: 400px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
